@@ -10,17 +10,15 @@ import { Router } from '@angular/router';
 })
 export class HomePage {
 
-
+group = "Wonderpets"
 
 constructor() {
  
   
  
 }
-btnClick(){
-console.log ("click")
 
 
-}
+
 
 }
